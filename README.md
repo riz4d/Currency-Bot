@@ -24,6 +24,7 @@ API_KEY='<PUT API-KEY HERE>' #replace this with API KEY
 API_ID = '<PUT API-ID HERE>' #replace this with API ID
 API_HASH = '<PUT API-HASH HERE>' #replace this with API HASH
 BOT_TOKEN = '<PUT BOT-TOKEN HERE>' #replace this with BOT-TOKEN
+base_currency='<USD>' #if you want to change base currency change here
 ```
  ### Deploy
  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/riz4d/Currency-Bot)<br><br>
