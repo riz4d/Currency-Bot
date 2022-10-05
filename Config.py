@@ -5,4 +5,4 @@ BOT_TOKEN = '<PUT BOT-TOKEN HERE>' #replace this with BOT-TOKEN
 
 
 base_url='https://v6.exchangerate-api.com/v6/'+API_KEY+'/latest/'
-base_currency='USD'
+base_currency='USD' #if you want to change base currency change here
