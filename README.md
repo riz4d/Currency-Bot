@@ -1,6 +1,6 @@
 # Currency-Bot??
 
-Pyrogram telegram bot, It allows you to retrieve exchange of currencies
+Pyrogram telegram bot, It allows you to retrieve exchange of currencies by using API of **__https://www.exchangerate-api.com/__**
 
 ### FEATURES
  - single convertion
